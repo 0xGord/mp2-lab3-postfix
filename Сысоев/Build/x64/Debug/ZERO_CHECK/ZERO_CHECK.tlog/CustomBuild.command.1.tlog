@@ -1,0 +1,10 @@
+^D:\REPOSITORIES\MP2-LAB3-POSTFIX\СЫСОЕВ\BUILD\CMAKEFILES\2BC034B11EDA3B112045A65D4B38CF81\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Repositories/mp2-lab3-postfix/Сысоев -BD:/Repositories/mp2-lab3-postfix/Сысоев/Build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Repositories/mp2-lab3-postfix/Сысоев/Build/Project.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
