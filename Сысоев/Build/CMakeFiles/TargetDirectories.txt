@@ -1,5 +1,0 @@
-D:/Repositories/mp2-lab3-postfix/Сысоев/Build/CMakeFiles/ALL_BUILD.dir
-D:/Repositories/mp2-lab3-postfix/Сысоев/Build/CMakeFiles/ZERO_CHECK.dir
-D:/Repositories/mp2-lab3-postfix/Сысоев/Build/base/CMakeFiles/postfix.dir
-D:/Repositories/mp2-lab3-postfix/Сысоев/Build/base_test/CMakeFiles/postfix_test.dir
-D:/Repositories/mp2-lab3-postfix/Сысоев/Build/gtest/CMakeFiles/gtest.dir

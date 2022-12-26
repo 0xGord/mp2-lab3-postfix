@@ -1,5 +1,0 @@
-﻿  postfix.cpp
-D:\Repositories\mp2-lab3-postfix\Сысоев\base\postfix.cpp(62,28): warning C4804: >: небезопасное использование типа "bool" в операции
-D:\Repositories\mp2-lab3-postfix\Сысоев\base\postfix.cpp(74,32): warning C4804: >: небезопасное использование типа "bool" в операции
-D:\Repositories\mp2-lab3-postfix\Сысоев\base\postfix.cpp(41): warning C4715: TPostfix::math: значение возвращается не при всех путях выполнения
-  postfix_test.vcxproj -> D:\Repositories\mp2-lab3-postfix\Сысоев\Build\base_test\Debug\postfix_test.exe
